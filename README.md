@@ -1,4 +1,4 @@
-# MONDO FEED DELUX FOR KNOWLEDGE SHARE, SOCIAL NETOWRKING, AND GENERAL MERIMENT (M.F.D.E.F.K.S.S.N.A.G.M)<br/><img src="./tmp/IMG_0756.PNG" alt="[cheeky photo of Dean]" title="cheeky photo of Dean" width="100px" height="150px">
+# MONDO FEED DELUX FOR KNOWLEDGE SHARE, SOCIAL NETOWRKING, AND GENERAL MERIMENT (M.F.D.E.F.K.S.S.N.A.G.M)<br/><img src="./img/IMG_0756.PNG" alt="[cheeky photo of Dean]" title="cheeky photo of Dean" width="100px" height="150px">
 
 ### INTRODUCTION AND GENERAL CONSIDERATIONS
 
