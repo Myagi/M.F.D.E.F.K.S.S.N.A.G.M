@@ -1,4 +1,4 @@
-# MONDO FEED DELUX FOR KNOWLEDGE SHARE, SOCIAL NETOWRKING, AND GENERAL MERIMENT (M.F.D.E.F.K.S.S.N.A.G.M)
+# MONDO FEED DELUX FOR KNOWLEDGE SHARE, SOCIAL NETOWRKING, AND GENERAL MERIMENT (M.F.D.E.F.K.S.S.N.A.G.M)<br/><img src="./tmp/IMG_0756.PNG" alt="[cheeky photo of Dean]" title="cheeky photo of Dean" width="100px" height="150px">
 
 ### INTRODUCTION AND GENERAL CONSIDERATIONS
 
@@ -23,6 +23,4 @@ Feed will include these post types:
 * New members joining the gym 
 * Person posting photos to their climb
 
-This repo contains legacy code of previous projects and failed business ideas. Add frontend changes where you see fit. 
-
-## Example data for each feed type 
+This repo contains legacy code of previous projects and failed business ideas. Add frontend changes where you see fit.
