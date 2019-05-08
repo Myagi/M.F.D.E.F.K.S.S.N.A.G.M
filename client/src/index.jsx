@@ -16,7 +16,9 @@ class App extends React.Component {
   render () {
     return (
       <div>
-        <FeedItems />
+        <FeedItems 
+          list=responseFromeAPI
+        />
       </div>
     )
   }
